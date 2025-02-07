@@ -3,6 +3,9 @@
 
 As part of the University of Michigan's annual Datathon, our team cleaned, analyzed, and modeled 10 years and over 740 MB of raw immigration application data in just 4 days. Here is what we came up with—
 
+
+https://github.com/user-attachments/assets/f1c8f07c-58dd-422f-9713-1b828ae8bc56
+
 ![1](https://github.com/user-attachments/assets/a8c36da1-f01c-41c0-8ede-7d11ec894615)
 ![2](https://github.com/user-attachments/assets/306c4377-523e-4f1d-abb6-0e3f8b5d50d7)
 ![3](https://github.com/user-attachments/assets/12eede47-e457-43bd-bf50-a37ffe1b5796)
