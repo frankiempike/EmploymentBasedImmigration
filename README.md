@@ -1,7 +1,7 @@
 # Employment-Based U.S. Immigration
 ## Analysis of 2020-2024 U.S. employment-based lawful permanent residency applications and what employers can do to make their workers' applications more likely to be accepted
 
-As part of the University of Michigan's annual Datathon, our team cleaned, analyzed, and modeled 10 years and over 740 MB of raw immigration application data in just 4 days. Here is what we came up with—
+As part of the University of Michigan's annual Datathon, our team joined, cleaned, analyzed, and modeled 10 years and over 740 MB of raw immigration application data in just 4 days. You can download the joined dataset [here](https://drive.google.com/file/d/1p3rMcK5DN13VFCRn0RazPdmGLvZio9fl/view?usp=sharing). This is what we came up with—
 
 
 https://github.com/user-attachments/assets/f1c8f07c-58dd-422f-9713-1b828ae8bc56
